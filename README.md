@@ -9,8 +9,6 @@
 	
 	**cd Hardcore/**
 
-	**git checkout master**
-
 	**git commit -m "add HometaskM2"**
 
 	**git push**
@@ -25,7 +23,7 @@
 
 	**git remote -v**
 
-	**git remote add origin git@git.epam.com:Viktar_Kimpel/hometask-backup.git**
+	** git remote add origin git@github.com:ViktarKimpel/GITTest.git**
 
 	**git remote -v**
 
@@ -43,10 +41,12 @@
 
 	**git remote -v**
 
-	**git remote add origin git@git.epam.com:Viktar_Kimpel/hometask.git**
+	**git remote add origin git@github.com:ViktarKimpel/Hardcore.git**
 
 	**git remote -v**
 
 	**git push**
+	
+	**git push --set-upstream origin main**
 
 	**git pull**
